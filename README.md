@@ -21,7 +21,7 @@ Este repositório faz parte das atividades do **bootcamp GFT Start .NET – DIO*
 - Evita desperdício de recursos e reduz custos.
 
 🔗 Referência:  
-[Scalability and elasticity in cloud design – Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles/scalability)
+[Scalability and elasticity in cloud design – Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/guide/design-principles/scale-out)
 
 ---
 
@@ -32,7 +32,7 @@ Este repositório faz parte das atividades do **bootcamp GFT Start .NET – DIO*
 - Serviços como **Availability Sets**, **Availability Zones** e **Load Balancer** garantem continuidade mesmo em falhas.
 
 🔗 Referência:  
-[High availability for Azure applications – Microsoft Learn](https://learn.microsoft.com/en-us/azure/architecture/resiliency/high-availability-azure)
+[High availability for Azure applications – Microsoft Learn](https://learn.microsoft.com/en-us/azure/well-architected/reliability/highly-available-multi-region-design)
 
 ---
 
@@ -53,7 +53,7 @@ Este repositório faz parte das atividades do **bootcamp GFT Start .NET – DIO*
   - **Encryption at rest e in transit**
 
 🔗 Referências:
-- [Security best practices – Microsoft Learn](https://learn.microsoft.com/en-us/security/compass/azure-security-best-practices)
+- [Security best practices – Microsoft Learn](https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns)
 - [Azure security documentation](https://learn.microsoft.com/en-us/azure/security/)
 
 ---
